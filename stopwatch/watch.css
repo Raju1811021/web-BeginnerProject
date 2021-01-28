@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-color:cornflowerblue;
+}
+#watch_container{
+    background-color: rgb(135, 223, 235);
+    border: 1px solid blue;
+    width: 30vw;
+    height: 20vw;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+#time{
+    
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 38%;
+}
+h1{
+    display: inline;
+    font-size: 40px;
+    color: blue;
+}
+button{
+    width: 84px;
+    height: 32px;
+    background-color: rgb(177, 244, 426);
+    border: 1px solid rgb(15, 15, 214);
+    color:blue;
+    font-weight: bold;
+    outline: none;
+}
+#button{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
